@@ -3,7 +3,6 @@
 
 Project 1 URL: https://jendaniel.github.io/p1.JencieDaniel/.
 
-# Microwave Design
-# By: Jencie Daniel
+
 
 
