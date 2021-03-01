@@ -84,7 +84,7 @@ I used the known advantages of color from a medical standpoint and created custo
 The progress bar serves to let people know when the food is done heating. The gradient moves from blue to green as an indication of when the food is cold and when the food is done heating. The rest box is a prominent indicator of the progress of microwave in it's last minute of heating. The progress box will make its way to the green side of the gradient as the microwave does its job. 
 ### 4) Sound Indication
 When the timer has finished, a tune will sound rather than the blaring alarm like sound. It is meant to create an environment that is more calming and relaxing. The user can then open the door to take the food out or place an item to heat up.
-### Selections
+### 5) Selections
 When the user makes a selction, the color of the button will change as an indicator that the user is selecting that choice.
 
 ## Conclusion
