@@ -50,5 +50,13 @@ It can also be used to defrost, but a number of people resort to leaving food ou
 5) Once the timer runs out, the microwave will beep and display "End"
 6) Press the button to open the microwave to take contents out and close the door manually
 
+## Common Mistakes
+1) Setting the microwave power and forgetting to set it back when proceeding to heat something else
+2) Moving through the selections for beverages, not know which value is associated with which drink
+3) Defrosting an item based on the weight that results in partially cooked food in certain areas, resulting in a health hazard
+
+<img width="749" alt="Microwave Sketch" src="https://user-images.githubusercontent.com/60491494/109450976-f518ad80-7a11-11eb-91c5-42d8a2dfd2b7.png">
+
+
 
 
