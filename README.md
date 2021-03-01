@@ -88,4 +88,4 @@ When the timer has finished, a tune will sound rather than the blaring alarm lik
 When the user makes a selction, the color of the button will change as an indicator that the user is selecting that choice.
 
 ## Conclusion
-The microwave that I designed is meant to be easy to use, conveienient for people, as well as customizable for the individual using it. it includes a number of features that are helpful in creating a good experience for the user. In addition, it can be tailored to any individual using it and is similar in size to a standard microwave so that it is eazy to have wherever the user feels it should belong.
+The microwave that I designed is meant to be easy to use, conveienient for people, as well as customizable for the individual using it. it includes a number of features that are helpful in creating a good experience for the user. In addition, it can be tailored to any individual using it and is similar in size to a standard microwave so that it is eazy to have wherever the user feels it should belong. 
