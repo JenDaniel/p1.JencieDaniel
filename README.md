@@ -31,5 +31,24 @@ The beverage button has a few selections that is labeled by numbers when selecte
 ### 3) Clustered User Interface
 Although the microwave introduces colors such as gray and black, it is still difficult to navigate. This may steer users away from using certain various features and it may result in the user setting the time manually.
 
+## Common Uses of Microwave
+### 1) Reheating 
+The most common use of a microwave is to haet up or reheat food. In general, people reheat food that was stored in the fridge. This can include things that were cooked within the home, food that was bought from a restaurant, or other items.
+### Heating things that have microwave included as a possible way of cooking/heating
+There are a number of items that can be heated using an oven or a microwave depending on what is available to the user, the time frame the user wants the food to be ready by, and the way the food should be consumed. For example, preparting food in an oven generally takes more time, but the method of cooking will result in a different end product when compared to a microwave. Ovens can be used to grill, bake, and toast, while microwaves do not commonly offer those features.
+### Defrost
+It can also be used to defrost, but a number of people resort to leaving food out to defrost prior to cooking rather than defrosting using their microwave because it tends to partially cook the food. This results in uneven thawing and that brings about a food safety issue in the sense that certain sections of the item may be partially cooked while other parts remain frozen.
+
+## General Sequence of Actions & Feedback
+1) Press the button to open the microwave, then place the contents inside and manually push close the door
+2) Press "Cook Time" or directly enter the desired amount of time to heat the food (diplay will show the entry)
+    1.1 Defrosting - enter weight of item and the timer will adjust the time accordingly
+    1.2 Power - the power of the microwave can be adjusted by selecting "Power" repeatedly until the desired power is set
+    1.3 Beverage - selecte beverage repeatedly until the desired beverage is selected (numbers are displayed and heating will begin without pressing "Start")
+3) Press "Start" (timer will diplay the countdown as time passes)
+4) Press "Stop" when the user wants to stop heating before the end timer rings
+5) Once the timer runs out, the microwave will beep and display "End"
+6) Press the button to open the microwave to take contents out and close the door manually
+
 
 
