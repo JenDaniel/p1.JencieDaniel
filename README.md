@@ -64,7 +64,10 @@ The above design is the design I sketched out to improve the interface, usabilit
 
 
 <img width="1291" alt="Microwave Design (Processing)" src="https://user-images.githubusercontent.com/60491494/109451945-4164ed00-7a14-11eb-84fe-8b3b85909637.png">
-![Microwave Demo (Processing)](https://user-images.githubusercontent.com/60491494/109453034-ab7e9180-7a16-11eb-9405-a485bdb5f40b.gif)
+
+
+![Microwave Demo (Processing)](https://user-images.githubusercontent.com/60491494/109453092-c8b36000-7a16-11eb-8bd9-519ef4228aad.gif)
+
 
 
 The interface takes up 1/4 of the width of the microwave and spans the height of the microwave. It includes the most common features that users utilize.
