@@ -80,6 +80,7 @@ I used the known advantages of color from a medical standpoint and created custo
     - https://www.ameridisability.com/post/how-color-therapy-benefits-people-with-disabilities
     - https://www.disabledliving.co.uk/blog/colours-vs-people-with-special-needs/
     - https://shathayuretreat.com/blog/healing-power-of-colours/
+A combination of research determined the colors that were chosen.
 ### 3. Progress Bar
 The progress bar serves to let people know when the food is done heating. The gradient moves from blue to green as an indication of when the food is cold and when the food is done heating. The rest box is a prominent indicator of the progress of microwave in it's last minute of heating. The progress box will make its way to the green side of the gradient as the microwave does its job. 
 ### 4. Sound Indication
