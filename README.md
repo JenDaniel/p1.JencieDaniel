@@ -63,7 +63,8 @@ It can also be used to defrost, but a number of people resort to leaving food ou
 The above design is the design I sketched out to improve the interface, usability, and overall convenience that a microwave should have. Keeping the standard dimensions of the microwave was important because homes, offices, and buildings are designed to fit certain appliances in certain areas. Changing the dimensions of the microwave may result in people not being able to place it where it should go or be able to place a specific dish in the microwave. To avoid that, the microwave is generally 30in x 15in x 17in (width, depth, height).
 
 
-img width="1291" alt="Microwave Design (Processing)" src="https://user-images.githubusercontent.com/60491494/109451841-ffd44200-7a13-11eb-8eed-504da2418368.png">
+<img width="1291" alt="Microwave Design (Processing)" src="https://user-images.githubusercontent.com/60491494/109451945-4164ed00-7a14-11eb-84fe-8b3b85909637.png">
+
 
 The interface takes up 1/4 of the width of the microwave and spans the height of the microwave. 
 
