@@ -72,4 +72,12 @@ The above design is the design I sketched out to improve the interface, usabilit
 
 The interface takes up 1/4 of the width of the microwave and spans the height of the microwave. It includes the most common features that users utilize.
 
-## 
+## The Details and Features
+### 1) Setting the Timer
+I created knobs for the user to use to set the amount of time they wish to heat up the food. There is a knob for the number of minutes as well as the number of seconds. The knob can be turned both clockwise as well as counter-clockwise in order to adjust the time. The yellow bar stands out so that it is easy to see.
+### 2) The Customizations
+I used the known advantages of color from a medical standpoint and created customizations in order to fit in with the individual's needs. I created a dropdown for the customization of the microwave color. The default is a dark green because green is known to relax individuals and helps to relieve stress. I also included some common things that people deal with on the daily as well as specific conditions that may pertain to certain individuals. With research, I looked into the various colors that may help and will allow an individual to customize their microwave to the environment that may be the most beneficial to them. As a reference, I have provided my sources:
+https://www.ameridisability.com/post/how-color-therapy-benefits-people-with-disabilities
+https://www.disabledliving.co.uk/blog/colours-vs-people-with-special-needs/
+https://shathayuretreat.com/blog/healing-power-of-colours/
+
