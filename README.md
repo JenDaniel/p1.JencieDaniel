@@ -1,3 +1,4 @@
+<img width="1291" alt="Microwave Design (Processing)" src="https://user-images.githubusercontent.com/60491494/109451841-ffd44200-7a13-11eb-8eed-504da2418368.png">
 
 # Microwave Design
 # By: Jencie Daniel
