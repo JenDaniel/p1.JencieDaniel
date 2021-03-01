@@ -13,6 +13,7 @@ Microwaves are used for a number of things and typically have a number of button
 ![Microwave Gif](https://user-images.githubusercontent.com/60491494/109445596-8b92a200-7a05-11eb-8833-eb4aeb11face.gif)
 
 
+## Microwave Features
 
 The microwave shown has:
 1) An auto cook menu
@@ -22,4 +23,13 @@ The microwave shown has:
 5) Stop/clear & Start/+30sec
 6) All the numbers 0 - 9
 
-This interface takes a lot of space and has a number of fuctions that are not commonly used. For example, the amount of time that users heat of their food varies depending on their preference. People who like their coffee piping hot may heat up the beverage for 1 min 30 secs versus an individual who may prefer to heat it up for just 45 seconds (which is the average).
+## Complexity of Usage
+### 1) Too many Buttons
+This interface takes a lot of space and has a number of fuctions that are not commonly used.
+### 2) Buttons that may seem helpful, can be confusing
+The beverage button has a few selections that is labeled by numbers when selected multiple times, but the selection does not specify the type of beverage the number is associated with. In addition, the amount of time that users heat of their food varies depending on their preference. People who like their coffee piping hot may heat up the beverage for 1 min 30 secs versus an individual who may prefer to heat it up for just 45 seconds (which is the average).
+### Clustered User Interface
+Although the microwave introduces colors such as gray and black, it is still difficult to navigate. This may steer users away from using certain various features and it may result in the user setting the time manually.
+
+
+
