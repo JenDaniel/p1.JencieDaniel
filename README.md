@@ -1,3 +1,4 @@
+
 # Microwave Design
 # By: Jencie Daniel
 
@@ -8,7 +9,10 @@ The design of the microwave has become more complex over time with the number of
 
 Microwaves are used for a number of things and typically have a number of buttons that take up Unnecessary space and have
 
-![] (Microwave Gif.gif)
+![Microwave_Image](https://user-images.githubusercontent.com/60491494/109445515-5c7c3080-7a05-11eb-969c-5921cea13c68.jpg)
+![Microwave Gif](https://user-images.githubusercontent.com/60491494/109445596-8b92a200-7a05-11eb-8833-eb4aeb11face.gif)
+
+
 
 The microwave shown has:
 1) An auto cook menu
