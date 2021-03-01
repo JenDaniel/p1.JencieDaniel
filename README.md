@@ -28,7 +28,7 @@ The microwave shown has:
 This interface takes a lot of space and has a number of fuctions that are not commonly used.
 ### 2) Buttons that may seem helpful, can be confusing
 The beverage button has a few selections that is labeled by numbers when selected multiple times, but the selection does not specify the type of beverage the number is associated with. In addition, the amount of time that users heat of their food varies depending on their preference. People who like their coffee piping hot may heat up the beverage for 1 min 30 secs versus an individual who may prefer to heat it up for just 45 seconds (which is the average).
-### Clustered User Interface
+### 3) Clustered User Interface
 Although the microwave introduces colors such as gray and black, it is still difficult to navigate. This may steer users away from using certain various features and it may result in the user setting the time manually.
 
 
